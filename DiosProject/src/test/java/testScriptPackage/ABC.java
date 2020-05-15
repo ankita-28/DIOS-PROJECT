@@ -9,6 +9,7 @@ public class ABC {
 	public void sss()
 	{
 		Reporter.log("ABC-TEST-Script",true);
+		System.out.println("hii guyz");
 	}
 	
 	
